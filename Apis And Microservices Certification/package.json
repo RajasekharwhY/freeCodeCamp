@@ -2,5 +2,6 @@
 "name"        : "freecodecamp",
 "version"     : "0.0.1",
 "author"      : "Raja",
-"description" : "free codecamp certifcation play ground"
+"description" : "free codecamp certifcation play ground",
+"keywords"    : ["Learning","Practice","Cerfication", "API","Node", "Microservices"] 
 }
