@@ -6,6 +6,6 @@
 "keywords"    : ["Learning","Practice","Cerfication", "API","Node", "Microservices"],
 "license"     : "MIT",
 "dependencies" : { 
-"moment" : "2.14.0" 
+"moment" : ">=2.19.3" 
 }  
 }
