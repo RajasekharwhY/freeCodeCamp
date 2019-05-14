@@ -1,5 +1,6 @@
 {
-"name" : "freecodecamp",
-"version" : "0.0.1",
-"author" : "Raja",
+"name"        : "freecodecamp",
+"version"     : "0.0.1",
+"author"      : "Raja",
+"description" : "free codecamp certifcation play ground"
 }
